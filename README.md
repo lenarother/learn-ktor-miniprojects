@@ -10,7 +10,7 @@ Based on examples in tutorial [Hands on Kotlin web](https://learning.oreilly.com
 ### Kotlin Class Extension
 
 [Project](https://github.com/lenarother/learn-ktor-miniprojects/blob/main/ktor-extensiondemo)
-[Summary](https://github.com/lenarother/learn-ktor-miniprojects/blob/main/ktor-extensiondemo/README.md)___
+[Summary](https://github.com/lenarother/learn-ktor-miniprojects/blob/main/ktor-extensiondemo/README.md)
 
 ### Kotlin Coroutines
 
