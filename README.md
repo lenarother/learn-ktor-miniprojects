@@ -17,3 +17,7 @@ Based on examples in tutorial [Hands on Kotlin web](https://learning.oreilly.com
 - Ktor architecture (& features)
 [Project](https://github.com/lenarother/learn-ktor-miniprojects/blob/main/ktor-install-feature)
 [Summary](https://github.com/lenarother/learn-ktor-miniprojects/blob/main/ktor-install-feature/README.md)
+
+- Ktor routing
+- [Project](https://github.com/lenarother/learn-ktor-miniprojects/blob/main/ktor-routes)
+  [Summary](https://github.com/lenarother/learn-ktor-miniprojects/blob/main/ktor-routes/README.md)
